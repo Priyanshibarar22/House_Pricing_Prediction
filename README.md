@@ -86,7 +86,10 @@ Target Variable: **Price**
 Project includes:
 - Histograms  
 - Feature vs Price scatter plots  
-- Actual vs Predicted plots  
+- Actual vs Predicted plots 
+Images of Histograms and Scatterplots are attached in the files section.
+ 
+  
 
 
 

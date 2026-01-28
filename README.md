@@ -102,3 +102,13 @@ Images of Histograms and Scatter plots are attached in the files section.
 ✔ Machine Learning Workflow  
 
 
+## Conclusion
+
+The Linear Regression model successfully captures the relationship between area and price, achieving **65% variance explanation**, making it a strong predictive system.
+
+Linear Regression performed best due to the mostly linear relationships in the dataset.  
+Decision Tree showed overfitting, while Random Forest improved stability but did not outperform Linear Regression.
+
+This project demonstrates model comparison, evaluation, and proper preprocessing.
+
+
